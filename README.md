@@ -3,9 +3,10 @@
 
 # Galaga GS
 
+**An arcade-style shoot‑’em‑up for the Apple IIgs**, inspired by the original [Xgalaga](https://github.com/frank-zago/xgalaga-sdl) created by Joe Rumsey.
+
 ![Galaga](/assets/Galaga1.png) ![Galaga](/assets/Galaga2.png)
 
-**An arcade-style shoot‑’em‑up for the Apple IIgs**, inspired by the original [Xgalaga](https://github.com/frank-zago/xgalaga-sdl) created by Joe Rumsey.
 
 Xgalaga has been adapted to many systems over the years — this version brings the fast‑paced, pixel action to the Apple IIgs. Many optimizations have been done to the original code to try and trim down the amount of calculations in hopes of speeding up the code.
 
@@ -20,7 +21,7 @@ My GTE fork extends those limits significantly:
 
 These changes were made specifically in the areas of the engine required by Galaga GS. As a result, not all GTE features are fully functional or tested in this build. Only the subsystems needed for gameplay were updated or validated.
 
-The modified engine source code available on [github[(https://github.com/vavruska/iigs-game-engine).
+The modified engine source code available on [github](https://github.com/vavruska/iigs-game-engine).
 
 ## Graphics and Sounds
 
@@ -57,4 +58,4 @@ The included makefile assumes that you are building using the [GoldenGate](https
   
 ## Special Thanks
 
-Thanks go out to Lucas Scharenbroich. If he had not developed and released source to GTE I never would have been able to start this version of Galaga. 
+Thanks go out to Lucas Scharenbroich. If he had not developed and released the source to GTE I never would have been able to start this version of GalagaGS. 

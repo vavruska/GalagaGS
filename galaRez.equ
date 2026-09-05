@@ -1,0 +1,50 @@
+
+#define RSOUND_00000001 $00000001
+#define FILE_00000001 "sounds:explode.wav"
+#define RSOUND_00000002 $00000002
+#define FILE_00000002 "sounds:firetorp.wav"
+#define RSOUND_00000003 $00000003
+#define FILE_00000003 "sounds:shield.wav"
+#define RSOUND_00000004 $00000004
+#define FILE_00000004 "sounds:torphit.wav"
+#define RSOUND_00000005 $00000005
+#define FILE_00000005 "sounds:explodeBig.wav"
+#define RSOUND_00000006 $00000006
+#define FILE_00000006 "sounds:ddloo.wav"
+#define RSOUND_00000007 $00000007
+#define FILE_00000007 "sounds:warp.wav"
+#define RSOUND_00000008 $00000008
+#define FILE_00000008 "sounds:smart.wav"
+
+#define RTEXT_00000001 $00000001
+#define LVLFILE_00000001 "levels:level1.xgl"
+#define RTEXT_00000002 $00000002
+#define LVLFILE_00000002 "levels:level2.xgl"
+#define RTEXT_00000003 $00000003
+#define LVLFILE_00000003 "levels:level3.xgl"
+#define RTEXT_00000004 $00000004
+#define LVLFILE_00000004 "levels:level4.xgl"
+#define RTEXT_00000005 $00000005
+#define LVLFILE_00000005 "levels:level5.xgl"
+#define RTEXT_00000006 $00000006
+#define LVLFILE_00000006 "levels:level6.xgl"
+#define RTEXT_00000007 $00000007
+#define LVLFILE_00000007 "levels:level7.xgl"
+#define RTEXT_00000008 $00000008
+#define LVLFILE_00000008 "levels:level8.xgl"
+#define RTEXT_00000009 $00000009
+#define LVLFILE_00000009 "levels:level9.xgl"
+#define RTEXT_0000000A $0000000A
+#define LVLFILE_0000000A "levels:level10.xgl"
+#define RTEXT_0000000B $0000000B
+#define LVLFILE_0000000B "levels:level11.xgl"
+#define RTEXT_0000000C $0000000C
+#define LVLFILE_0000000C "levels:level12.xgl"
+#define RTEXT_0000000D $0000000D
+#define LVLFILE_0000000D "levels:level13.xgl"
+#define RTEXT_0000000E $0000000E
+#define LVLFILE_0000000E "levels:level14.xgl"
+#define RTEXT_0000000F $0000000F
+#define LVLFILE_0000000F "levels:level15.xgl"
+
+

@@ -1,0 +1,18 @@
+# Object files
+*.o
+o/*
+
+# Executables
+GalagaGS
+._GalagaGS
+
+#my score file 
+
+#apple 2 files
+Finder.Data
+
+#SlickEdit IDE files
+*.vpw
+*.vpj
+*.vpwhistu
+*.vtg

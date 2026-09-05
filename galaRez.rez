@@ -1,0 +1,38 @@
+#include "types.rez"
+#include "galaRez.equ"
+
+#define COPY_YEAR "2026"
+
+resource rVersion (0x00000001, $0000) {
+        {1, 0, 0, release, 0},
+        VerUS,
+        "Galaga",
+        "Copyright \0xa9 "COPY_YEAR" Chris Vavruska"
+};
+
+
+read rSoundSample (RSOUND_00000001, locked) FILE_00000001;
+read rSoundSample (RSOUND_00000002, locked) FILE_00000002;
+read rSoundSample (RSOUND_00000003, locked) FILE_00000003;
+read rSoundSample (RSOUND_00000004, locked) FILE_00000004;
+read rSoundSample (RSOUND_00000005, locked) FILE_00000005;
+read rSoundSample (RSOUND_00000006, locked) FILE_00000006;
+read rSoundSample (RSOUND_00000007, locked) FILE_00000007;
+read rSoundSample (RSOUND_00000008, locked) FILE_00000008;
+
+read rText (RTEXT_00000001, locked) LVLFILE_00000001;
+read rText (RTEXT_00000002, locked) LVLFILE_00000002;
+read rText (RTEXT_00000003, locked) LVLFILE_00000003;
+read rText (RTEXT_00000004, locked) LVLFILE_00000004;
+read rText (RTEXT_00000005, locked) LVLFILE_00000005;
+read rText (RTEXT_00000006, locked) LVLFILE_00000006;
+read rText (RTEXT_00000007, locked) LVLFILE_00000007;
+read rText (RTEXT_00000008, locked) LVLFILE_00000008;
+read rText (RTEXT_00000009, locked) LVLFILE_00000009;
+read rText (RTEXT_0000000A, locked) LVLFILE_0000000A;
+read rText (RTEXT_0000000B, locked) LVLFILE_0000000B;
+read rText (RTEXT_0000000C, locked) LVLFILE_0000000C;
+read rText (RTEXT_0000000D, locked) LVLFILE_0000000D;
+read rText (RTEXT_0000000E, locked) LVLFILE_0000000E;
+read rText (RTEXT_0000000F, locked) LVLFILE_0000000F;
+

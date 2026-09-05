@@ -1,0 +1,3 @@
+#!/bin/bash
+#node png2iigs.js ../assets/tileset.png --format orcac --as-tile-data --max-tiles 512 > ../tileData.c
+node png2iigs.js ../assets/tileset.png --format orcac --as-tile-data --transparent-color-index 0 --max-tiles 1024 > ../tileData.c
